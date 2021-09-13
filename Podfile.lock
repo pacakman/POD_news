@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (5.4.3)
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - Moya/RxSwift (15.0.0):
+    - Moya/Core
+    - RxSwift (~> 6.0)
+  - RxSwift (6.2.0)
+  - SkeletonView (1.24.4)
+
+DEPENDENCIES:
+  - Moya (~> 15.0)
+  - Moya/RxSwift (~> 15.0)
+  - SkeletonView
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Moya
+    - RxSwift
+    - SkeletonView
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  RxSwift: d356ab7bee873611322f134c5f9ef379fa183d8f
+  SkeletonView: c8632f212fcce7b7ba742c3d4a5af3596b5fa5ae
+
+PODFILE CHECKSUM: 598001fdfe6012a9c9719df8740c030b815f9624
+
+COCOAPODS: 1.10.2
